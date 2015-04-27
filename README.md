@@ -1,5 +1,8 @@
-# NaOS
+# NaOS 
+A pure 16 bits operative system, made in **NASM** 
+
 Repositorio del proyecto de **Netwide Assembler Operative System**, **SO01**, **Drash** y **DiOS**.
+
 Ejemplos practicos de Sistemas de arranque, y shell's basicas usando lenguaje ensamblador.
 
 
@@ -10,11 +13,13 @@ Cada uno de estos proyectos estan escritos en lenguaje ensamblador para **intel 
 ## Requisitos
 - [**Nasm**](http://www.nasm.us/) 
 - **CopyBoot**
+- [**Virtual floppy drive 2.1**](http://vfd.sourceforge.net/) para montar diskettes virtuales y hacer pruebas.
+- Diskettes virtuales, herramientas como [VirtualBox](https://www.virtualbox.org/) y [WinImage](http://www.winimage.com/download.htm), por mencionar algunas, pueden crear diskettes virtuales.
 
 
 ##Editor
-- [**Sublime Text 2** (recomendado)](http://www.sublimetext.com/2)
-- [Soporte para NASM x​86-64](https://packagecontrol.io/packages/NASM%20x86%20Assembly) (thanks to  **Nessphoro**)
+Cualquier editor de texto, recomendamos [**Sublime Text 2**](http://www.sublimetext.com/2)
+- [Plugin de Soporte para NASM x​86-64](https://packagecontrol.io/packages/NASM%20x86%20Assembly) (thanks to  **Nessphoro**)
 
 
 ## Licencia
@@ -27,4 +32,3 @@ El texto completo de la licencia puede ser encontrado en el archivo **MIT-LICENS
 [Diniremix on GitHub](https://github.com/diniremix)
 
 email: *diniremix [at] gmail [dot] com*
-
